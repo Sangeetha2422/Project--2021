@@ -6,5 +6,6 @@ public class Newstart2021 {
 		
 		System.out.println("Hai 2021");
 		System.out.println("hello world");
+		System.out.println("test 2");
 	}
 }
